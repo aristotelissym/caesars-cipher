@@ -11,7 +11,7 @@ Caesars Cipher, could break with Cryptoanalysis. The most common way is brute-fo
         3. The Natural Language with which the Plain Text was written.
 
 Creator: 
-    Aristotle Symeonidis, BS in Computer Science, Ionian University, Corfu.
+    @aristotelissym, Github Account
     E-mail: arisymeon97@gmail.com
 ===========================================================================================================================================
 """
